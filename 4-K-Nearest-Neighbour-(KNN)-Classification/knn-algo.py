@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 13 22:45:40 2018
-
-@author: user
-"""
 
 # KNN Algoritması Tutorial
 #* import dataset
