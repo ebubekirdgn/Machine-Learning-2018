@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  6 23:07:28 2018
 
-@author: user
-"""
 # import library
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -11,6 +7,7 @@ import matplotlib.pyplot as plt
 # import data
 df = pd.read_csv("linear_regression_dataset.csv",sep = ";")
 
+#linear_regression_dataset.csv kaggledan indirilecek...
 # plot data
 plt.scatter(df.deneyim,df.maas)
 plt.xlabel("deneyim")
