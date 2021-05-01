@@ -14,7 +14,7 @@ This project requires **Python** and the following Python libraries installed:
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 
-### * [Python](#python)
+### - [Python](#python)
       - [Computer Vision](#python-computer-vision)
       - [Natural Language Processing](#python-natural-language-processing)
       - [General-Purpose Machine Learning](#python-general-purpose-machine-learning)
