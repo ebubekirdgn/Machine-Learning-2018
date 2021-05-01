@@ -15,7 +15,7 @@ This project requires **Python** and the following Python libraries installed:
 
 <hr>
 
-- [Python](#python)
+- [Python](#python) <br>
       - [Computer Vision](#python-computer-vision)
       - [Natural Language Processing](#python-natural-language-processing)
       - [General-Purpose Machine Learning](#python-general-purpose-machine-learning)
