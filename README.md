@@ -18,9 +18,9 @@ This project requires **Python** and the following Python libraries installed:
 - [Python](#python) <br>
       - [Computer Vision](#python-computer-vision) <br>
       - [Natural Language Processing](#python-natural-language-processing)<br>
-      - [General-Purpose Machine Learning](#python-general-purpose-machine-learning)
-      - [Data Analysis / Data Visualization](#python-data-analysis--data-visualization)
-      - [Misc Scripts / iPython Notebooks / Codebases](#python-misc-scripts--ipython-notebooks--codebases)
-      - [Neural Networks](#python-neural-networks)
-      - [Kaggle Competition Source Code](#python-kaggle-competition-source-code)
-      - [Reinforcement Learning](#python-reinforcement-learning)
+      - [General-Purpose Machine Learning](#python-general-purpose-machine-learning)<br>
+      - [Data Analysis / Data Visualization](#python-data-analysis--data-visualization)<br>
+      - [Misc Scripts / iPython Notebooks / Codebases](#python-misc-scripts--ipython-notebooks--codebases)<br>
+      - [Neural Networks](#python-neural-networks)<br>
+      - [Kaggle Competition Source Code](#python-kaggle-competition-source-code)<br>
+      - [Reinforcement Learning](#python-reinforcement-learning)<br>
