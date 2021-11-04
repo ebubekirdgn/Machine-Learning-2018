@@ -56,13 +56,3 @@ y_head = linear_reg.predict(array)  # maas
 plt.plot(array, y_head,color = "red")
 
 linear_reg.predict(100)
-
-
-
-
-
-
-
-
-
-
