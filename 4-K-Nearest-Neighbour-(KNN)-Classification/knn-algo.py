@@ -63,5 +63,3 @@ plt.plot(range(1,15),score_list)
 plt.xlabel("k values")
 plt.ylabel("accuracy")
 plt.show()
-
-
