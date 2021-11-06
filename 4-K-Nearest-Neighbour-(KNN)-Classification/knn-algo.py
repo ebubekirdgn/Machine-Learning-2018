@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# KNN Algoritması Tutorial
-#* import dataset
-#* datasetimi tanımı
-#* dataset görselleştirme
-#* knn algoritması ne demek açıkla
-#* knn with sklearn
-#* ödev
+# KNN Algoritması
+ 
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
